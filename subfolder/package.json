@@ -1,6 +1,6 @@
 {
   "name": "@agustibr/npm-package-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a description",
   "main": "index.js",
   "scripts": {
